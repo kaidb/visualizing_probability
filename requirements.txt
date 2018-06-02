@@ -1,0 +1,7 @@
+matplotlib==2.1.2
+ipywidgets==7.2.1
+jupyterthemes==0.18.5
+numpy==1.14.2
+scipy==0.19.1
+bqplot==0.10.5
+ipython==6.4.0
